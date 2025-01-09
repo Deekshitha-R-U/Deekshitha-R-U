@@ -20,13 +20,13 @@
 - Python | Java | JavaScript | C | C++ | HTML | CSS | SQL  
 
 #### **Frameworks**
-- Flask | Spring Boot | React | Node.js | Hibernate  
+- Spring Boot | React | Node.js | Hibernate  
 
 #### **Databases**
 - MySQL | MongoDB  
 
 #### **Tools & Platforms**
-- Git | Docker | Jupyter Notebook | IntelliJ | Visual Studio Code | Kali Linux  
+- Git | Jupyter Notebook | IntelliJ | Visual Studio Code | Kali Linux  
 
 ---
 
