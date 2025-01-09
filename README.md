@@ -2,11 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity!;Innovating+One+Project+at+a+Time!;Exploring+the+World+of+Tech!;Welcome+to+My+GitHub!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Deekshitha-R-U/banner/blob/main/header.png" alt="Custom Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity!;Innovating+One+Project+at+a+Time!;Exploring+the+World+of+Tech!;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,14 +16,32 @@
 ---
 
 ### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
+#### **Languages**
+- Python | Java | JavaScript | C | C++ | HTML | CSS | SQL  
+
+#### **Frameworks**
+- Flask | Spring Boot | React | Node.js | Hibernate  
+
+#### **Databases**
+- MySQL | MongoDB  
+
+#### **Tools & Platforms**
+- Git | Docker | Jupyter Notebook | IntelliJ | Visual Studio Code | Kali Linux  
+
+---
+
+### 🌟 Key Highlights
+- 🔍 **Cybersecurity Projects**:  
+  - Developed a **Plagiarism Checker** leveraging NLP and advanced similarity algorithms.  
+  - Built a **Malicious URL Detector** to enhance web security.  
+
+- 🌐 **Web Development**:  
+  - Designed interactive web apps integrating modern frameworks like React and Flask.  
+  - Developed responsive UIs and backend systems for scalable web apps.  
+
+- 🤖 **AI & Automation**:  
+  - Created an **Emotion-Based Music Recommendation System** that adapts to user sentiment.  
+  - Explored **Natural Language Processing (NLP)** for text and sentiment analysis.  
 
 ---
 
